@@ -39,16 +39,20 @@ main p{
     margin-left: 20px; 
 }
 .item-1{
-    flex-grow: 1;
+    margin-right: 20px;
 }   
 .item-2{
-    flex-grow: 3;
+    flex-grow: 2;
 }
-.item-2 h4{
+.name{
     margin-bottom: 0px;
 }
-.item-2 p{
+.message{
     margin-top: 0px;
+}
+.state{
+    margin-top: 0px;
+    color: #828485;
 }
 .item-3{
     display: flex;
