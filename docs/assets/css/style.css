@@ -56,11 +56,15 @@ main p{
 }
 .item-3{
     display: flex;
-    justify-content: space-around;
+    justify-content: flex start;
     flex-direction: row;
     flex-grow:1;
 }
 .figure-1{
+    align-self: center;
+    margin-right: 20px;
+}
+.figure-2{
     align-self: center;
 }
 .boton{
