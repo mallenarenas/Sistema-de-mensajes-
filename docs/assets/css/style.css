@@ -54,6 +54,9 @@ main p{
     margin-top: 0px;
     color: #828485;
 }
+.state-maria{
+    font-size: 10px;
+}
 .item-3{
     display: flex;
     justify-content: flex start;
