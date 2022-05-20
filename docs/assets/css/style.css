@@ -64,6 +64,10 @@ main p{
     align-self: center;
     margin-right: 20px;
 }
+.icon{
+    font-size: 20px;
+    color:#828485
+}
 .figure-2{
     align-self: center;
 }
